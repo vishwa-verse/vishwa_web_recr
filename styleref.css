@@ -1,0 +1,44 @@
+body{
+    background-color: #35cde8;
+    
+    
+}
+
+input[type=text], input[type=password] {
+    width: 300px;
+    background-color: lightblue;
+    outline: none;
+    border: none;
+
+    
+}
+  
+button {
+    padding: 20px 20px;
+    margin: 8px 45px;
+    border: none;
+    cursor: pointer;
+    width: 200px;
+    background-color: #11b6ed;
+    border-radius: 5px;
+    
+
+}
+
+.container {
+padding: 16px;
+justify-content: center;
+align-items: center;
+height: 300x;
+width: 300px;
+margin: auto;
+margin-top: 10rem;
+box-shadow: 0 8px 8px -4px black;
+}
+
+
+span.psw {
+float: center;
+padding-top: 16px;
+padding-left: 75px;
+}
